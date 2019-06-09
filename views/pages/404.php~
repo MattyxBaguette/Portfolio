@@ -1,0 +1,12 @@
+<?php include '../views/partials/header.php' ?>
+
+    <div class="main">
+    <div class="content">
+    <div class="page-title">
+        <h1>40<span class="colored_text">4</span></h1>
+    </div>
+    </div>
+
+    <img src="<?= URL ?>/assets/images/404.svg">
+    </div>
+<?php include '../views/partials/footer.php' ?>

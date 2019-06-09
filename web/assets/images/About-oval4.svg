@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="270px" viewBox="0 0 270 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Oval Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5ED4F2" offset="0%"></stop>
+            <stop stop-color="#774691" stop-opacity="0.82" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Macbook-Pro-Copy-4" transform="translate(-118.000000, -663.000000)" fill="url(#linearGradient-1)">
+            <circle id="Oval-Copy" transform="translate(252.730417, 797.730417) rotate(-30.000000) translate(-252.730417, -797.730417) " cx="252.730417" cy="797.730417" r="134.5"></circle>
+        </g>
+    </g>
+</svg>
